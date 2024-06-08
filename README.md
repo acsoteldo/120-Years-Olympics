@@ -44,7 +44,7 @@ OUR ASK: IDENTIFY PRIME LOCATIONS THAT OPTIMIZE WOMEN'S PARTICIPATION THROUGHOUT
 
 ## Key Insights
 * If a country is young in its chronological age, then it is notable that winning a medal at this point may have counted for another country in the past.
-* Kosovo has one medal, as of 1990, but was previously considered part of Serbia
+* Kosovo has one medal, as of 1990, but was previously considered part of Serbia.
 * War impacts how people are able to compete for their birth country.
 
 ### Dashboard
