@@ -1,4 +1,4 @@
-# 120-Years-Olympics
+# 120 Years of Olympics History
 Analysing Trends, Participation Metrics, and Future Considerations
 
 ## Feedback for Final Project
