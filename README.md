@@ -48,7 +48,7 @@ OUR ASK: IDENTIFY PRIME LOCATIONS THAT OPTIMIZE WOMEN'S PARTICIPATION THROUGHOUT
 * War impacts how people are able to compete for their birth country.
 
 ### Dashboard
-![image](https://github.com/acsoteldo/120-Years-of-Olympics-History/assets/76544489/bdf104c2-1e18-45e9-9a80-abc0d6b48121)
+![image](https://github.com/acsoteldo/120-Years-of-Olympics-History/assets/76544489/e1a68452-71fc-44e3-b277-c80a781e4ccf)
 
 ## Next Steps
 * Utilize historical data to forecast participation trends for Paris 2024 and LA 2028.
